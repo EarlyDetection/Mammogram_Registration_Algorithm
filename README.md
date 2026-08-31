@@ -19,7 +19,6 @@ An algorithm to register secondary captures to original mammograms using SIFT al
 
 ```
 python register_mammograms.py --secondary_capture_dir <secondary_capture_dir> --original_dir <original_dir>
-
 ```
 
 ## Author
