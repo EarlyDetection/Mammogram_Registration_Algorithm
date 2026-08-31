@@ -6,7 +6,7 @@ An algorithm to register secondary captures to original mammograms using SIFT al
 
 
 ### Visual Samples
-(Samples/Registration_Sample.png) 
+![Registration Sample](Samples/Registration_Sample.png)
 
 
 ## Dependencies
